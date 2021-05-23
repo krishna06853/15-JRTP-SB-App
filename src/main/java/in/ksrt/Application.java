@@ -13,7 +13,7 @@ public class Application {
 		int j=23;
 		int c=i+j;
 		
-		System.out.println(c);
+		System.out.println("sum :" + c);
 
 	}
 
