@@ -12,6 +12,8 @@ public class Application {
 		int i=10;
 		int j=23;
 		int c=i+j;
+		
+		System.out.println(c);
 
 	}
 
